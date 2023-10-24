@@ -22,11 +22,11 @@ ArduPilot ve MAVProxy'yi yüklemek için aşağıdaki kaynağı kullanabilirsini
 
 QGroundControl'ü yüklemek için aşağıdaki adımları izleyin:
 
-1. `sudo apt install libsdl2-dev` komutu ile gerekli bağımlılığı kurun.
+1. [QGroundControl Kurulum Kılavuzu](https://github.com/Intelligent-Quads/iq_tutorials/blob/master/docs/installing_qgc.md).
 
-2. [QGroundControl Kurulum Kılavuzu](https://github.com/Intelligent-Quads/iq_tutorials/blob/master/docs/installing_qgc.md).
+2. Eğer "QGroundControl" hatası alıyorsanız, `sudo apt install libsdl2-dev` komutu ile gerekli bağımlılığı kurun.
 
-3. [QGroundControl Dosyasını İndirin](https://drive.google.com/file/d/1L9J-3GJTrsmA-ARml7wTAJDSPy2BTwEx/view?usp=sharing).
+3. Eğer hata devam ediyorsa oluşturulan "QGroundControl.AppImage" dosyası ile verilen linkteki dosyayı indirip değiştirin. [QGroundControl Dosyasını İndirin](https://drive.google.com/file/d/1L9J-3GJTrsmA-ARml7wTAJDSPy2BTwEx/view?usp=sharing).
 
 ## Gazebo ve ArduPilot Eklentisinin Kurulumu
 
