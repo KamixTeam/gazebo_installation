@@ -24,7 +24,9 @@ QGroundControl'ü yüklemek için aşağıdaki adımları izleyin:
 
 1. `sudo apt install libsdl2-dev` komutu ile gerekli bağımlılığı kurun.
 
-2. [QGroundControl Dosyasını İndirin](https://github.com/Intelligent-Quads/iq_tutorials/blob/master/docs/installing_qgc.md).
+2. [QGroundControl Kurulum Kılavuzu](https://github.com/Intelligent-Quads/iq_tutorials/blob/master/docs/installing_qgc.md).
+
+3. [QGroundControl Dosyasını İndirin](https://drive.google.com/file/d/1L9J-3GJTrsmA-ARml7wTAJDSPy2BTwEx/view?usp=sharing).
 
 ## Gazebo ve ArduPilot Eklentisinin Kurulumu
 
