@@ -1,4 +1,4 @@
-# Gazebo Kurulumu
+# Gazebo Kurulumu UBUNTU 18.04
 
 Bu rehber, Ubuntu işletim sistemi üzerinde Python, ArduPilot, MAVProxy, Gazebo, ve diğer gerekli yazılımları kurmak için kullanabileceğiniz adımları içerir. Aşağıdaki adımları takip ederek simülasyon dünyasını başlatabilirsiniz.
 
